@@ -1,7 +1,22 @@
-#include <unistd.h>
+#include "main.h"
+	/**
+	 * main - print _putchar
+	 * is written by olumide
+	 * Return: 0
+	 */
 
-int main() {
-    char message[] = "_putchar\n";
-    write(1, message, sizeof(message)-1);
-    return 0;
+
+	int main(void)
+	{
+	_putchar('_');
+	_putchar('p');
+	_putchar('u');
+	_putchar('t');
+	_putchar('c');
+	_putchar('h');
+	_putchar('a');
+	_putchar('r');
+	_putchar('\n');
+	return (0);
+	}
 }
