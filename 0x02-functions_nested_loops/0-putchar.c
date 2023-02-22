@@ -1,7 +1,7 @@
 #include "main.h"
 	/**
 	 * main - print _putchar
-	 * is written by mbah
+	 * is written by olumide
 	 * Return: 0
 	 */
 
@@ -19,5 +19,4 @@
 	_putchar('\n');
 	return (0);
 	}
-
 
