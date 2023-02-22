@@ -1,8 +1,7 @@
 #include "main.h"
 	/**
-	 * main - print _putchar
-	 * is written by olumide
-	 * Return: 0
+	 * main - Entry Point
+	 * Return: Always 0
 	 */
 
 
